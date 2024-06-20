@@ -54,6 +54,4 @@ Contributions are welcome. Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License.
 
----
 
-You can further customize this README by adding more specific details about each sheet and the insights they provide once you have access to the data.
